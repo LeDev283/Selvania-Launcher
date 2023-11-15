@@ -1,7 +1,7 @@
 {
     "name": "Selvania",
     "preductname": "Selvania Launcher",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "PvP Faction Moddé",
     "main": "src/app.js",
     "author": "Luuxis/Riptiaz",
