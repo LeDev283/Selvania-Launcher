@@ -1,11 +1,11 @@
 {
     "name": "Selvania",
     "preductname": "Selvania Launcher",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "PvP Faction Moddé",
     "main": "src/app.js",
     "author": "Luuxis/Riptiaz",
-    "settings": "https://data.free.honeyweb.fr",
+    "settings": "https://basededonnee.free.honeyweb.fr",
     "engines": {
         "node": "16.x.x"
     },
